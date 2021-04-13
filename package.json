@@ -17,7 +17,7 @@
     "@ensdomains/dnsprovejs": "^0.3.0",
     "@ensdomains/dnssec-oracle": "^0.2.0",
     "dns-packet": "^5.2.1",
-    "ethers": "^5.0.30",
+    "ethers": "^5.0.32",
     "typescript-logging": "^1.0.0"
   },
   "devDependencies": {
